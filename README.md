@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+Agenda de Contactos 📒
+Aplicación de agenda de contactos creada con Vue 3 y Vite. Permite gestionar tus contactos de manera fácil y rápida.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+🚀 Características
+Añadir, editar y eliminar contactos.
+Búsqueda rápida.
+Diseño responsivo.
+📦 Instalación
+Clona el repositorio:
+bash
+Copy code
+git clone https://github.com/tu-usuario/tu-repositorio.git  
+Instala las dependencias:
+bash
+Copy code
+npm install  
+Inicia el servidor:
+bash
+Copy code
+npm run dev  
+🛠 Tecnologías
+Vue 3
+Vite
